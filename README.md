@@ -1,2 +1,2 @@
 # fUS-Disp-MotorBehaviorPaper
-The repository provides an example code and data for CBV analyses in response to FUS stimulation reported in the manuscript titled "Imaging of Neurovascular Activity during Motor Responses Evoked by Displacement-guided Focused Ultrasound (DgFUS) Neuromodulation in Mice" submitted to Communications Engineering on 04/03/2026.
+The repository provides representative CBV data and example code that visualizes CBV images/movies and correlation maps reported in the paper titled "Imaging of Neurovascular Activity during Motor Responses Evoked by Displacement-guided Focused Ultrasound Neuromodulation in Mice" published in Communications Engineering.
