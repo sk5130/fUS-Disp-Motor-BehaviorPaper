@@ -1,1 +1,4 @@
 Representative CBV data used in Figure 3
+1. Extract the AcqInfo zip file to the directory .../Data/Figure3/
+2. Extract all CBV zip files to the directory .../Data/Figure3/CBV/
+3. Run CBVProcessing.py
